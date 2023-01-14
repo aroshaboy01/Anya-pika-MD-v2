@@ -7,26 +7,26 @@ global.simpleBotname = "Anya" //⚠️ Only use normal and one work name here or
 
 
 //------------❤️ 𝗕𝗼𝘁 𝗱𝗲𝘁𝗮𝗶𝗹𝘀 ❤️-----------\\
-global.botname = "Queen Anya" 
+global.botname = "*🖤AROSH💢BOY🔐*" 
 global.websitex = "https://github.com/Pika4O4" // Website to be displayed //
 global.botscript = 'https://github.com/PikaBotz/Anya-pika-MD-v2' // Script link //
-global.packname = "𝐴𝑛𝑦𝑎💫 вσᡶ 𝖻ꪗ ρỉƙꪖ" // sticker watermark packname //
-global.author = "🥵3.69_ρỉƙꪖ" // sticker watermark author //
-actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚' // text who displays on the top of welcome and left message //
+global.packname = "*🖤AROSH💢BOY🔐*" // sticker watermark packname //
+global.author = "*🖤AROSH💢BOY🔐*" // sticker watermark author //
+actiontitle = '*🖤AROSH💢BOY🔐*' // text who displays on the top of welcome and left message //
 global.headerText = "Anya by Pika" // text for header of menu //        
      
              //-------------👑Owner & vcard 👑----------\\             
-             global.ownernumber = ['918811074852']   // Owner number //
-             global.vcardowner = ['918811074852']   // vcard owner number //
-             global.ownername = "3.69_Pika"   // Owner name //
-             global.ytname = "YT: ONYXPIKA"   // Yt chanel name //
+             global.ownernumber = ['94761676948']   // Owner number //
+             global.vcardowner = ['94704613640']   // vcard owner number //
+             global.ownername = "*AROSH BOY"   // Owner name //
+             global.ytname = "*🖤AROSH💢BOY🔐*"   // Yt chanel name //
              global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : Pika4o4"   // Github or insta name //
              global.location = "India, Assam, Dibrugarh"   // Location //
-             global.owner = ['918811074852','917355622763','919673141317']
-             global.ownertag = '918811074852'  // Tag number //
-             global.linkz = "https://wa.me/+918811074852"  // Theme url which will be displayed on whatsapp //
-             global.premium = ['918811074852']  // premium numbers //             
-             global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark //
+             global.owner = ['94761676948','94704603640']
+             global.ownertag = '94761676948'  // Tag number //
+             global.linkz = "https://wa.me/+94761676948"  // Theme url which will be displayed on whatsapp //
+             global.premium = ['94761676948']  // premium numbers //             
+             global.waterMark = "Arosh Boy" // Your own watermark //
 
 global.prefa = ['','-']
 
